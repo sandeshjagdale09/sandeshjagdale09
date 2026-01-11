@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/31365698/215766037-54403913-12c6-48a2-a58a-6090e1ea9f19.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeshjagdale09" alt="sandeshjagdale09" /></a> </p>
+
 
 - 📫 How to reach me **sandeshjagdale09@gmail.com**
 
